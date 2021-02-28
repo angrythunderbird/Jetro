@@ -1,1 +1,1 @@
-https://angrythunderbird.github.io/jetro
+https://angrythunderbird.github.io/jetro/index.html
